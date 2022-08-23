@@ -14,7 +14,7 @@ header {
   padding-left: 5px;
 }
 
-.logo {
+header .logo {
   width: 80%;
   padding-top: 10px;
   padding-bottom: 20px;
@@ -37,11 +37,6 @@ header {
 .local p {
   color: #e2e1df;
   font: weight 300px;
-}
-
-.bikes {
-  background-color: #e1e2df;
-  text-align: center;
 }
 
 .signup {
@@ -68,6 +63,11 @@ header {
   margin-bottom: 20px;
 }
 
+.bikes {
+  background-color: #e1e2df;
+  text-align: center;
+}
+
 .about {
   display: block;
   background-color: #eab244;
@@ -85,3 +85,4 @@ header {
 .about p {
   color: #3c4e3e;
 }
+/*# sourceMappingURL=style.css.map */
