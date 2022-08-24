@@ -44,15 +44,18 @@ header .logo {
   padding-bottom: 20px;
   padding-left: 5px;
 }
-.signup h2 {
+
+h2 {
   font-family: "M PLUS Rounded 1c", sans-serif;
   color: #696c6d;
 }
-.signup label {
+
+label {
   display: block;
   margin-bottom: 5px;
 }
-.signup input {
+
+input {
   display: block;
   margin-bottom: 20px;
 }
@@ -69,11 +72,13 @@ header .logo {
   padding-bottom: 20px;
   padding-left: 5px;
 }
-.about h2 {
+
+h2 {
   color: #e64448;
   font-family: "M PLUS Rounded 1c", sans-serif;
   font-weight: bold;
 }
-.about p {
+
+p {
   color: #3c3a48;
 }/*# sourceMappingURL=style.css.map */
